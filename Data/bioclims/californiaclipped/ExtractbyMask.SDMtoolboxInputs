@@ -1,0 +1,11 @@
+2023-04-11 20:19:42.900000
+Input Parameters 
+C:\Users\Nilay Nagar\Desktop\MS project Report\crops\californiaclipped/*.tif
+Input Folder: C:\Users\Nilay Nagar\Desktop\MS project Report\crops\CHELSA_cur_V1_2B_r2_5m\2_5min
+ESRI Grid yes or noFalse 
+Output Folder: C:\Users\Nilay Nagar\Desktop\MS project Report\crops\californiaclipped 
+Output Raster Type: TIFF (.tif) 
+Mask Raster: C:\Users\Nilay Nagar\Desktop\MS project Report\california\california\points\bio_1.shp 
+Prefix:  
+Suffix: 
+Rasters input: 
